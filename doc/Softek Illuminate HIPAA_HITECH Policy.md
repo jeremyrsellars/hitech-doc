@@ -1,4 +1,4 @@
-Softek Illuminate HIPAA/HITECH Policy
+Example HIPAA/HITECH Policy
 =====================================
 
 Outline
